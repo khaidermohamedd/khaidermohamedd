@@ -181,8 +181,8 @@ My personal site — loader, liquid-distortion hero, stacked project cards. Hand
 
 <div align="center">
 
-**MSc — Artificial Intelligence & Digital Computing** · FST Béni Mellal, USMS · 2025–2027
-**BSc — Distributed Computer Systems** · FST Marrakech, Cadi Ayyad University · 2024–2025
+**MSc — Artificial Intelligence & Digital Computing** · FST Béni Mellal, USMS · 2025–2027<br>
+**BSc — Distributed Computer Systems** · FST Marrakech, Cadi Ayyad University · 2024–2025<br>
 **DEUST — Science & Technology** · FST Marrakech, Cadi Ayyad University · 2022–2024
 
 ![Arabic](https://img.shields.io/badge/Arabic-native-2E7D32?style=flat-square)
